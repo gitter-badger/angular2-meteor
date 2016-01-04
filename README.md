@@ -1,4 +1,6 @@
 # Meteor-Angular2
+
+[![Join the chat at https://gitter.im/vamsivarikuti/angular2-meteor](https://badges.gitter.im/vamsivarikuti/angular2-meteor.svg)](https://gitter.im/vamsivarikuti/angular2-meteor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Angular2 + Meteor integration.
 
 ##### Angular2 version: beta-0.
